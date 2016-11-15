@@ -5,3 +5,10 @@ Chip-8 emulator for CMD (Windows 10)
 // Some comments are just copy-past from different sources to understand how things worked. I'll edit everything asap.
 
 -> I made this project to learn how an interpreter is working and how to write a basic emulator.
+
+
+Sources that helped me a lot: 
+
+https://github.com/ejholmes/chip8
+http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00E0
+https://en.wikipedia.org/wiki/CHIP-8
