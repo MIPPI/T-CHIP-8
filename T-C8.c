@@ -70,7 +70,7 @@ int main()
     system("cls");
     Sleep(1000);
     while(1){
-        opNb++;
+'        opNb++;
         emulateCycle();
         if(draw_flag == 1)  draw();
         if(delay_timer != 0){
@@ -119,7 +119,7 @@ void init(){
 void openFile(){
     system("cls");
     printf("CHIP-8 EMULATOR BY MIPPI - V 0 - \n\n");
-    printf("\nROM PATH ? (should looks like './TETRIS)'\n");
+    printf("\nROM PATH ? (should looks like './TETRIS')\n");
     //char s[128] = "./";
     char s[128];
     scanf("%s", &s);
