@@ -70,7 +70,7 @@ int main()
     system("cls");
     Sleep(1000);
     while(1){
-'        opNb++;
+        opNb++;
         emulateCycle();
         if(draw_flag == 1)  draw();
         if(delay_timer != 0){
